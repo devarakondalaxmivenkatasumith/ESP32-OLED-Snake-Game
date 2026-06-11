@@ -88,8 +88,3 @@ Upload the Arduino sketch to the ESP32 DevKit V1 using Arduino IDE.
 * Embedded C++ Programming
 * Hardware Interfacing and Debugging
 
-## Author
-
-**Nova**
-
-ECE Student | Embedded Systems & IoT Enthusiast
